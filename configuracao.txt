@@ -1,0 +1,29 @@
+
+PROJETO: GeekVerse
+OBJETIVO: Automatizar a produção e publicação de YouTube Shorts.
+
+IDIOMA: Português do Brasil
+NICHO: Anime e cultura geek
+
+FORMATO DOS VÍDEOS:
+- Vídeos verticais 9:16
+- Duração entre 35 e 50 segundos
+- Narração em português
+- Legendas sincronizadas
+- Títulos curtos e chamativos
+
+AUTOMAÇÃO:
+- Criar 3 roteiros por dia
+- Gerar cenas com inteligência artificial
+- Montar e editar os vídeos
+- Enviar uma prévia para aprovação
+
+REGRA PRINCIPAL:
+Nenhum vídeo poderá ser publicado sem aprovação expressa do proprietário do canal.
+
+PUBLICAÇÃO:
+- YouTube Shorts
+- Publicação agendada após aprovação
+
+ORÇAMENTO INICIAL: Gratuito
+DISPOSITIVO DISPONÍVEL: Android
