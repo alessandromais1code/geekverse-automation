@@ -1,0 +1,21 @@
+name: GeekVerse Automation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *"
+
+jobs:
+  organizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar arquivos do projeto
+        uses: actions/checkout@v4
+
+      - name: Confirmar estrutura
+        run: |
+          echo "GeekVerse iniciado!"
+          echo "Verificando arquivos..."
+          ls -la
+          echo "Automação preparada."
